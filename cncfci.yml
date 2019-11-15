@@ -1,14 +1,14 @@
  project:
-  logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/color/cncf-color.svg?sanitize=true"
-  display_name: Test Project
-  sub_title: Testing
-  project_url: "https://github.com/crosscloudci/testproj"
-  stable_ref: "v0.0.4"
+  logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/etcd/icon/color/etcd-icon-color.svg?sanitize=true"
+  display_name: etcd
+  sub_title: Distributed reliable key-value store
+  project_url: "https://github.com/etcd-io/etcd"
+  stable_ref: "v3.2.28"
   head_ref: "master"
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/cncfci/testproj"  # can be anything for citest
-      ci_project_name: "crosscloudci/testproj"
+      ci_project_url: "https://example.com/etcd-io/etcd"  # can be anything for citest
+      ci_project_name: "etcd-io/etcd"
       arch:
         - amd64

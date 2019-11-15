@@ -1,1 +1,1 @@
-# testproj-configuration
+# etcd-configuration
