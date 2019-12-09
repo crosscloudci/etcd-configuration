@@ -3,7 +3,7 @@
   display_name: etcd
   sub_title: Distributed reliable key-value store
   project_url: "https://github.com/etcd-io/etcd"
-  stable_ref: "v3.2.28"
+  stable_ref: "v3.3.18"
   head_ref: "master"
   ci_system:
     -
