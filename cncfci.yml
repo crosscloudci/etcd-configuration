@@ -1,14 +1,14 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/etcd/icon/color/etcd-icon-color.svg?sanitize=true"
   display_name: etcd
-  sub_title: Distributed reliable key-value store
+  sub_title: Key/Value Store
   project_url: "https://github.com/etcd-io/etcd"
   stable_ref: "v3.3.18"
   head_ref: "master"
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/etcd-io/etcd"  # can be anything for citest
+      ci_project_url: "https://travis-ci.com/etcd-io/etcd"
       ci_project_name: "etcd-io/etcd"
       arch:
         - amd64
