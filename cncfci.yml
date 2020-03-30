@@ -3,7 +3,7 @@
   display_name: etcd
   sub_title: Key/Value Store
   project_url: "https://github.com/etcd-io/etcd"
-  stable_ref: "v3.4.4"
+  stable_ref: "v3.4.6"
   head_ref: "master"
   ci_system:
     -
