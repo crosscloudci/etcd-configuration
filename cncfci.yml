@@ -12,3 +12,4 @@
       ci_project_name: "etcd-io/etcd"
       arch:
         - amd64
+
